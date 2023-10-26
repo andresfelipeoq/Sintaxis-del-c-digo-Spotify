@@ -1,7 +1,7 @@
 # Sintaxis-del-c-digo-Spotify
 Sintaxis del código para la creación del un clon de Spotify
 
-Hasta mi última actualización en enero de 2022, Spotify está construido utilizando una variedad de tecnologías y lenguajes de programación. A continuación, te proporcionaré una descripción general de las tecnologías principales utilizadas en la plataforma:
+
 
 1. **Backend**:
    - **Lenguajes de Programación**: El backend de Spotify utiliza principalmente lenguajes de programación como **Java**, **Python**, y **Scala**. Java es especialmente utilizado para servicios críticos en tiempo real y alto rendimiento.
